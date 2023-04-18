@@ -1,4 +1,4 @@
-% this filevconcerns with importing models and running the respective
+% this file concerns with importing models and running the respective
 % pipeline 
 %% Initialize cobratoolbox and set solver
 initCobraToolbox(false);
