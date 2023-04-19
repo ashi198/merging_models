@@ -26,3 +26,4 @@ end
 %Lower bound (lb): A negative value (e.g., -1000 or -inf)
 %Upper bound (ub): 0 or a non-positive value
 %the reaction can only proceed in the reverse direction, so only negative flux values are allowed.
+(https://doi.org/10.1038/protex.2011.234)
